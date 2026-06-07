@@ -12,6 +12,7 @@ pubspec.lock
 # Android
 android/.gradle/
 android/app/build/
+android/app/google-services.json
 android/local.properties
 android/key.properties
 android/*.jks
